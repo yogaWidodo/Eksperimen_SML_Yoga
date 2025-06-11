@@ -1,8 +1,0 @@
-seaborn
-numpy
-pandas
-matplotlib
-scikit-learn
-scipy
-Sastrawi
-nltk
